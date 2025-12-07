@@ -77,13 +77,6 @@ Proxy type and format (optional)
 
 ---
 
-## Development Guidelines
-
-### Network Timeouts
-For stability on slower connections, the global network timeout for all API requests should be set to **30 seconds**.
-
----
-
 
  Legal & Ethical Notice
 
